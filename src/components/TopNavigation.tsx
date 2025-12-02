@@ -29,7 +29,7 @@ export function TopNavigation({ viewMode, onViewModeChange, isNavigating, onStop
                   <Navigation className="w-4 h-4 text-gray-600" />
                 </div>
                 <div>
-                  <div className="text-sm text-gray-600">12 min (2.4 mi)</div>
+                  <div className="text-sm text-gray-600">4 min (0.4 mi)</div>
                 </div>
               </>
             )}
